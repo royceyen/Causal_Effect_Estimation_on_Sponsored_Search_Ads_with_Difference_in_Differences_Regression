@@ -1,4 +1,4 @@
-# Difference-in-Differences Regression Causal Analysis on Sponsored Search Ads
+# Causal Effect Estimation on Sponsored Search Ads with Difference-in-Differences Regression
 
 ### Overview
 This analysis leverages a natural experiment described in the Columbia Business School case "Measuring ROI on Sponsored Search Ads" by Kinshuk Jerath. The objective is to estimate the causal impact of sponsored search advertising on Bazaar.com’s web traffic and conversion, using a Difference-in-Differences (DiD) regression framework. In particular, the analysis aims to provide a more accurate assessment of the Return on Investment (ROI) of branded keyword advertising campaigns.
