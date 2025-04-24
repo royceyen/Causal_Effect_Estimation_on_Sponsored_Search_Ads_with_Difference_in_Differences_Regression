@@ -20,4 +20,4 @@ In this report, I applied a DiD regression methodology to address these core bus
 
 
 ### Conclusion
-This analysis demonstrates that sponsored ads on Google generate a substantial incremental traffic increase (9,910.6 clicks/week), yielding an ROI of 579.8%, far exceeding Bob’s overstated 320%. The DiD method provides a causal estimate by controlling for market trends, highlighting the value of analytics in advertising decisions.
+
